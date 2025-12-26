@@ -35,3 +35,8 @@ sysinfo.txt
 *.exe
 *.app
 *.unitypackage
+
+# Unity build outputs
+WebGL Builds/
+Build/
+Builds/
